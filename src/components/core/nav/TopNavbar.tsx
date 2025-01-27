@@ -3,9 +3,9 @@ import Container from "../../shared/Container";
 
 export default function TopNavbar() {
   return (
-    <div className="bg-[#172F41] py-3 md:py-4 text-white">
+    <div className="bg-[#132A3B] py-3 text-white md:py-4">
       <Container>
-        <div className="flex flex-col items-center gap-2 md:gap-5 md:justify-between lg:flex-row">
+        <div className="flex flex-col items-center gap-2 md:justify-between md:gap-5 lg:flex-row">
           {/* Left Side: Phone Number */}
           <div className="flex items-center gap-2">
             <Phone className="h-5 w-5" />
