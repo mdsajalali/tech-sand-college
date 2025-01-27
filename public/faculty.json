@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Abul Lais M. S. Haque",
+    "designation": "Dean & Professor",
+    "department": "Department of Computer Science & Engineering",
+    "facultyCode": "ALMSH",
+    "email": "dean@buet.ac.bd",
+    "office": "Room: 212, Building: BUET",
+    "courses": "View Courses",
+    "profile": ["Google Scholar", "Research Gate"],
+    "researchArea": "N/A",
+    "role": "Professor",
+    "image": "https://cse.bubt.edu.bd/media/facultyImages/dipusir.png"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Khandoker Nadim Parvez",
+    "designation": "Associate Professor",
+    "department": "Department of Computer Science & Engineering",
+    "facultyCode": "DKNP",
+    "email": "khandoker@buet.ac.bd",
+    "office": "Room: 312, Building: B1 BUET",
+    "courses": "View Courses",
+    "profile": ["Google Scholar", "Research Gate"],
+    "researchArea": "Artificial Intelligence",
+    "role": "Associate Professor",
+    "image": "https://cse.bubt.edu.bd/media/facultyImages/dipusir.png"
+  },
+  {
+    "id": 3,
+    "name": "Md. Saifur Rahman",
+    "designation": "Assistant Professor & Chairman (Acting)",
+    "department": "Department of Computer Science & Engineering",
+    "facultyCode": "BR",
+    "email": "saifur@gmail.com",
+    "office": "Room: 421, Building: B2 BUET",
+    "courses": "View Courses",
+    "profile": ["Google Scholar", "Research Gate"],
+    "researchArea": "Data Science",
+    "role": "Assistant Professor",
+    "image": "https://cse.bubt.edu.bd/media/facultyImages/dipusir.png"
+  },
+  {
+    "id": 4,
+    "name": "Md. Mijanur Rahman",
+    "designation": "Lecturer",
+    "department": "Department of Computer Science & Engineering",
+    "facultyCode": "MMR",
+    "email": "mijanur@buet.ac.bd",
+    "office": "Room: 125, Building: B2 BUET",
+    "courses": "View Courses",
+    "profile": ["Google Scholar"],
+    "researchArea": "Machine Learning",
+    "role": "Lecturer",
+    "image": "https://cse.bubt.edu.bd/media/facultyImages/dipusir.png"
+  },
+  {
+    "id": 5,
+    "name": "Md. Shahiduzzaman",
+    "designation": "Assistant Professor",
+    "department": "Department of Computer Science & Engineering",
+    "facultyCode": "MSZ",
+    "email": "shahid@buet.ac.bd",
+    "office": "Room: 221, Building: B2 BUET",
+    "courses": "View Courses",
+    "profile": ["Google Scholar", "Research Gate"],
+    "researchArea": "Big Data",
+    "role": "Assistant Professor",
+    "image": "https://cse.bubt.edu.bd/media/facultyImages/dipusir.png"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "category": "Lab Assistants",
+    "members": [
+      {
+        "name": "MD. TAUHEDUL ISLAM",
+        "designation": "Lab Assistant",
+        "qualification": "M.Sc in CSE, M.Sc in LMIS, B.Sc in CSE",
+        "phone": "01729955576",
+        "email": "tauhed.bd@gmail.com",
+        "image": "https://cse.bubt.edu.bd/media/facultyImages/dipusir.png"
+      },
+      {
+        "name": "Md. Abdul Muhainim Chowdhury",
+        "designation": "Computer Lab Assistant",
+        "qualification": "",
+        "phone": "",
+        "email": "mrayhanch@yahoo.com",
+        "image": "https://cse.bubt.edu.bd/media/facultyImages/dipusir.png"
+      }
+    ]
+  },
+  {
+    "category": "IT Officers",
+    "members": [
+      {
+        "name": "John Doe",
+        "designation": "IT Officer",
+        "qualification": "B.Sc in IT",
+        "phone": "0123456789",
+        "email": "john.doe@example.com",
+        "image": "https://cse.bubt.edu.bd/media/facultyImages/dipusir.png"
+      }
+    ]
+  },
+  {
+    "category": "Administrative Staffs",
+    "members": [
+      {
+        "name": "Jane Smith",
+        "designation": "Admin Staff",
+        "qualification": "BBA in Management",
+        "phone": "9876543210",
+        "email": "jane.smith@example.com",
+        "image": "https://cse.bubt.edu.bd/media/facultyImages/dipusir.png"
+      }
+    ]
+  }
+]

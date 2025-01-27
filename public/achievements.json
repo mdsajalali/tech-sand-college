@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Industry Advisory Panel",
+    "image": "/achievements/nature.jpg",
+    "date": "Sat 09 Oct 2021",
+    "description": "The department has recently established an industrial advisory panel with experienced professionals from selected industries to provide feedback and suggestions to improve students' knowledge in the field.",
+    "thumbnail_image": "/images/industry-thumbnail.jpg",
+    "thumbnail_image_description": "A thumbnail image of the Industry Advisory Panel event"
+  },
+  {
+    "id": 2,
+    "title": "Computer Science Symposium",
+    "image": "/achievements/nature.jpg",
+    "date": "Mon 12 Dec 2022",
+    "description": "An annual symposium hosted by the Computer Science Department to discuss the latest advancements in the field of Computer Science.",
+    "thumbnail_image": "/images/symposium-thumbnail.jpg",
+    "thumbnail_image_description": "A thumbnail image representing the Computer Science Symposium"
+  },
+  {
+    "id": 3,
+    "title": "Tech Talks with Industry Experts",
+    "image": "/achievements/nature.jpg",
+    "date": "Wed 15 Nov 2023",
+    "description": "A series of talks with leading tech industry experts sharing their insights on the latest trends in technology.",
+    "thumbnail_image": "/images/tech-talks-thumbnail.jpg",
+    "thumbnail_image_description": "A thumbnail image of the Tech Talks event"
+  }
+]
