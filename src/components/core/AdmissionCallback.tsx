@@ -39,7 +39,9 @@ const AdmissionCallback = () => {
   return (
     <div
       className="relative h-[550px] w-full bg-cover bg-center"
-      style={{ backgroundImage: `url("/admissionCounter.jpg")` }}
+      style={{
+        backgroundImage: `url("https://demo.alhikmahsoft.com/template/canyon/assets/img/banner/bg-Image-1.jpg")`,
+      }}
     >
       {/* Overlay */}
       <div className="absolute inset-0 bg-blue-900 bg-opacity-70" />
@@ -48,7 +50,7 @@ const AdmissionCallback = () => {
       <div className="relative z-10 flex h-full flex-col items-center justify-center text-center text-white">
         {/* Heading */}
         <h1 className="text-2xl font-bold md:text-6xl">
-          Get The Admission in BUBT
+          Get The Admission in Tech Sand College
         </h1>
         <p className="mt-2 text-lg md:text-xl">
           Admission Going On Summer - 2023

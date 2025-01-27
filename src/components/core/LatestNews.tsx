@@ -21,50 +21,50 @@ const data: Record<string, NewsItem[]> = {
     {
       title: "ICPC Dhaka Regional 2021 - BUBT",
       date: "Mon 08 Aug 2022",
-      image: "/latest_news/one.jpg",
+      image: "/hero/one.jpg",
     },
     {
       title: "CSE Admission Information",
       date: "Wed 12 Apr 2023",
-      image: "/latest_news/two.jpg",
+      image: "/hero/two.png",
     },
     {
       title: "Cyber Security - Prospects and Challenges",
       date: "Tue 20 Oct 2020",
-      image: "/latest_news/three.jpg",
+      image: "/hero/three.png",
     },
     {
       title: "Workshop on Engineering Problem",
       date: "Thu 16 Mar 2023",
-      image: "/latest_news/four.jpeg",
+      image: "/hero/four.png",
     },
   ],
   news: [
     {
       title: "ICPC Dhaka Regional 2021 - BUBT",
       date: "Mon 08 Aug 2022",
-      image: "/latest_news/five.jpg",
+      image: "/hero/one.jpg",
     },
   ],
   events: [
     {
       title: "CSE Admission Information",
       date: "Wed 12 Apr 2023",
-      image: "/latest_news/six.jpg",
+      image: "/hero/two.png",
     },
   ],
   conference: [
     {
       title: "Cyber Security - Prospects and Challenges",
       date: "Tue 20 Oct 2020",
-      image: "/latest_news/one.jpg",
+      image: "/hero/three.png",
     },
   ],
   workshop: [
     {
       title: "Workshop on Engineering Problem",
       date: "Thu 16 Mar 2023",
-      image: "/latest_news/eight.jpg",
+      image: "/hero/four.png",
     },
   ],
 };
@@ -83,7 +83,7 @@ export default function LatestNews() {
             </h1>
             <div className="my-2 flex items-center justify-center gap-2 md:justify-start">
               <Image
-                src="/bubt-footer-logo.png"
+                src="/logo.png"
                 alt="bubt logo"
                 width={20}
                 height={20}
@@ -135,7 +135,7 @@ export default function LatestNews() {
                 ))}
               </motion.div>
               <p className="cursor-pointer pt-4 text-center font-semibold text-red-600">
-                CSE Office of Communication &gt;
+                Tech Sand Office of Communication &gt;
               </p>
             </AnimatePresence>
           </div>
@@ -143,11 +143,11 @@ export default function LatestNews() {
           {/* Right section for notices */}
           <div className="w-full md:w-1/3">
             <h1 className="text-center text-3xl font-bold md:text-left">
-              CSE Notice Board
+              Tech Sand Notice Board
             </h1>
             <div className="my-2 flex items-center justify-center gap-2 md:justify-start">
               <Image
-                src="/bubt-footer-logo.png"
+                src="/logo.png"
                 alt="bubt logo"
                 width={20}
                 height={20}
