@@ -1,1 +1,1 @@
-This is a BUBT University Management Website
+This is a College Management Website
