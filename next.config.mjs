@@ -1,4 +1,8 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+  images: {
+    domains: ["templates.envytheme.com"],  
+  },
+};
 
 export default nextConfig;

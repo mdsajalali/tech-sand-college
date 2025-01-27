@@ -5,24 +5,24 @@ import React from "react";
 export default function ChairmanSidebar() {
   const menuItems = [
     {
-      text: "OBE - Outcome Based Education",
+      text: "Science Group",
       image: "/gob.png",
       link: "/obe",
     },
-    { text: "AML-LAB", image: "/aml2.png", link: "/research-field" },
-    { text: "Research Area", image: "/ra1.png", link: "/research-field" },
+    { text: "Arts Group", image: "/aml2.png", link: "/research-field" },
+    { text: "Commerce Group", image: "/ra1.png", link: "/research-field" },
     {
-      text: "Published Article",
+      text: "Extracurricular Activities",
       image: "/pa.png",
       link: "/published-articles",
     },
     {
-      text: "Capstone Projects",
+      text: "Research and Development",
       image: "/cp1.png",
       link: "/capstone-project",
     },
     {
-      text: "CSE Office of Communication",
+      text: "Office of Communication",
       image: "/com.png",
       link: "/cse-news",
     },
