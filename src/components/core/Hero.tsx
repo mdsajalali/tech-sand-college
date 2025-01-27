@@ -10,19 +10,19 @@ import SliderArrowBtn from "./SliderArrowBtn";
 const uniData = [
   {
     id: 1,
-    src: "/hero/banner_one.jpg",
+    src: "/hero/one.jpg",
   },
   {
     id: 2,
-    src: "/hero/banner_two.jpeg",
+    src: "/hero/two.png",
   },
   {
     id: 3,
-    src: "/hero/banner_three.jpg",
+    src: "/hero/three.png",
   },
   {
     id: 4,
-    src: "/hero/banner_four.jpg",
+    src: "/hero/four.png",
   },
 ];
 
@@ -58,13 +58,13 @@ export default function Hero() {
               <div className="absolute inset-0 flex items-center justify-center bg-black/60 px-4 py-2 text-center">
                 <div className="text-white">
                   <h1 className="mb-2 text-[16px] font-bold uppercase md:text-4xl">
-                    Welcome to department of CSE
+                    Welcome to Tech Sand College
                   </h1>
                   <h2 className="mb-2 px-10 text-xl font-semibold md:px-0 md:text-2xl">
-                    We Provide B.SC. in CSE{" "}
+                    Life the journey get the bright career{" "}
                     <span className="text-red-500">
                       <ReactTyped
-                        strings={["(Regular)", "(Diploma Holders)"]}
+                        strings={["(Science)", "(Arts Commerce )"]}
                         typeSpeed={40}
                         backSpeed={50}
                         loop
